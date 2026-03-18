@@ -1,0 +1,1 @@
+This is a new test file for testing` purposes. It contains some sample text to verify that the file is being read correctly. The content of this file can be modified as needed for different test cases.
